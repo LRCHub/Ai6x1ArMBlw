@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "螢火",
+  "base_artist": "ELFENSJoN",
+  "createdAt": "2025-12-26T09:51:41.433476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "螢火",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/01_螢火_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "螢火",
+      "artist": "day after tomorrow",
+      "has_synced": true,
+      "path": "select/02_螢火_day_after_tomorrow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "螢火 Firefly",
+      "artist": "Byejack",
+      "has_synced": false,
+      "path": "select/03_螢火_Firefly_Byejack.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "螢火",
+      "artist": "TFBOYS",
+      "has_synced": true,
+      "path": "select/04_螢火_TFBOYS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "螢火",
+      "artist": "Leon Lai",
+      "has_synced": true,
+      "path": "select/05_螢火_Leon_Lai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "螢火",
+      "artist": "黎明",
+      "has_synced": true,
+      "path": "select/06_螢火_黎明.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "螢火",
+      "artist": "TFBOYS",
+      "has_synced": true,
+      "path": "select/07_螢火_TFBOYS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "螢火",
+      "artist": "鄧紫棋",
+      "has_synced": true,
+      "path": "select/08_螢火_鄧紫棋.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "螢火 - Mama",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/09_螢火_-_Mama_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "螢火",
+      "artist": "蘇運瑩",
+      "has_synced": true,
+      "path": "select/10_螢火_蘇運瑩.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "螢火 / REINCARNATE Ver",
+      "artist": "ELFENSJóN",
+      "has_synced": true,
+      "path": "select/11_螢火___REINCARNATE_Ver_ELFENSJóN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "螢火",
+      "artist": "ELFENSJóN",
+      "has_synced": true,
+      "path": "select/12_螢火_ELFENSJóN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "螢火 / REINCARNATE Ver",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_螢火___REINCARNATE_Ver_ELFENSJóN.txt"
+    }
+  ]
+}
